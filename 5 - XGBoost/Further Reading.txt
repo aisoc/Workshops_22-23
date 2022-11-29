@@ -1,0 +1,3 @@
+https://xgboost.readthedocs.io/en/latest/tutorials/model.html
+https://www.youtube.com/watch?v=OtD8wVaFm6E&ab_channel=StatQuestwithJoshStarmer
+https://arxiv.org/pdf/1603.02754v3.pdf
