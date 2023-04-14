@@ -1,0 +1,13 @@
+torch
+numpy
+random
+
+diffusers==0.3.0
+transformers
+ftfy
+opencv-python
+ipywidgets
+PIL
+tqdm
+difflib
+pillow
