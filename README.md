@@ -1,7 +1,6 @@
 # Workshops-22-23
 Workshops materials for the University of Southampton Artificial Intelligence Society
 
-
 ## Workshop - 6: Introduction to Neural Networks
 Go to the /6-NN/ folder and just load up the ipynb file.
 
@@ -17,4 +16,14 @@ All code is in "electricity_forecast.ipynb" in the folder "/7 - RNN".
 
 - Use "git clone https://github.com/aisoc/Workshops-22-23.git"
 - OR upload the file to https://colab.research.google.com/
+
+## Workshop - 8: Latent Diffusion Models
+We will uncover the inner workings of game changing Stable Diffusion Model!
+By the end of the workshop you will code your own custom Stable Diffusion Model, 
+and explore current state-of-art research in this area!
+
+All code is in "Generate_Image.ipynb" in the folder "/8 - LDM".
+
+- Use "git clone https://github.com/aisoc/Workshops-22-23.git"
+- OR upload the file to https://colab.research.google.com/ along with the "/src" folder
 
